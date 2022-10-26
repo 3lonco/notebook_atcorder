@@ -1,11 +1,9 @@
+import itertools
 P,Q,R=map(int,input().split())
 a=[]
 a.append(P)
 a.append(Q)
 a.append(R)
-
-
-import itertools
 
 ans=100000000000000
 nums = [0, 1, 2]
