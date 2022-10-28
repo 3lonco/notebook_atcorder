@@ -21,6 +21,12 @@ int find(string s)
     }
 }
 
+// 練習
+int dfs(int now)
+{
+    if
+}
+
 int main()
 {
     string s;
